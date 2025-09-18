@@ -56,3 +56,10 @@ layout: default
 ## 五、 设置与使用：让网络顺畅跑起来
 
 　　**1. APN设置（物理SIM卡用户必看）：** 插卡后，
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Malawi SIM 卡购买与激活指南](https://faciylike.github.io/malawi-sim-guides)
